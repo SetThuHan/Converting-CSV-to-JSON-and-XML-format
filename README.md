@@ -1,2 +1,2 @@
-# Converting-CSV-to-JSON-and-XML-format
-Note: Use Python3
+#Run easily in terminal
+Note: Use Python3 
