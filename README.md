@@ -1,2 +1,2 @@
-#Run-Easily-In-Terminal
+# Run-Easily-In-Terminal
 Note: Use Python3 
